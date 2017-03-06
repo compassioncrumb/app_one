@@ -1,0 +1,8 @@
+
+
+This is a document for a profile to improve eye training
+
+Also, I have a new idea for a focusing app that allows you to blur everything on a web page besides the article. similar to ad block except that it rather than removing the adds it simply blurs over them, and any other extaneous content, including links
+
+-maybe it could have user controlled settings to deterimne what content or elements are blured out
+
