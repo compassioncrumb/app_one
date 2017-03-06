@@ -6,3 +6,7 @@ Also, I have a new idea for a focusing app that allows you to blur everything on
 
 -maybe it could have user controlled settings to deterimne what content or elements are blured out
 
+AR and VR versions of this
+
+
+I would like to research how difficult it is for a person to program in AR/VR as their first programming endeavor...
